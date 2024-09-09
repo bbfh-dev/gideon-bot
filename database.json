@@ -1,0 +1,109 @@
+{
+	"token": "<HIDDEN>",
+	"home": 1120419648316395530,
+	"perm_level": {
+		"root": [465886354941673473, 1005815221413220364],
+		"manager": [642406800121004072]
+	},
+	"clans": [
+		{
+			"id": 0,
+			"name": "LegionKnights",
+			"guild": 798968708802281512,
+			"roles": [
+				{
+					"id": 0,
+					"name": "Leader",
+					"icon": ":crown:",
+					"discord": 799280355075948604
+				},
+				{
+					"id": 1,
+					"name": "Co-Leader",
+					"icon": ":crown:",
+					"discord": 814520242771722301
+				},
+				{
+					"id": 2,
+					"name": "Developer",
+					"icon": ":computer:",
+					"discord": 1086740444383289364
+				},
+				{
+					"id": 3,
+					"name": "Moderator",
+					"icon": ":shield:",
+					"discord": 799280531572785193
+				},
+				{
+					"id": 4,
+					"name": "Helper",
+					"icon": ":shield:",
+					"discord": 854045909577629756
+				},
+				{
+					"id": 5,
+					"name": "Recruiter",
+					"icon": ":children_crossing:",
+					"discord": 799279869729046538
+				},
+				{
+					"id": 6,
+					"name": "Tank II",
+					"icon": ":crossed_swords:",
+					"discord": 1035642539958620282
+				},
+				{
+					"id": 7,
+					"name": "Tank I",
+					"icon": ":crossed_swords:",
+					"discord": 866688369220255744
+				},
+				{
+					"id": 8,
+					"name": "Knights II",
+					"icon": ":adult:",
+					"discord": 799276634380173382
+				},
+				{
+					"id": 9,
+					"name": "Member",
+					"icon": ":adult:",
+					"discord": 1035642212177952848
+				},
+				{
+					"id": 10,
+					"name": "Ally",
+					"icon": ":handshake:",
+					"discord": 834319847914602537
+				},
+				{
+					"id": 11,
+					"name": "Rookie",
+					"icon": ":baby:",
+					"discord": 971495867234263200
+				},
+				{
+					"id": 12,
+					"name": "Offline",
+					"icon": ":sleeping:",
+					"discord": 993284278894985249
+				},
+				{
+					"id": 13,
+					"name": "Neutral",
+					"icon": ":thumbsup:",
+					"discord": 1080571615982649354
+				}
+			]
+		}
+	],
+	"clan_relations": [
+		[0, 3, 3, 1, 3],
+		[1, 0, 3, 2, 3],
+		[3, 3, 0, 3, 2],
+		[1, 2, 3, 0, 3],
+		[3, 3, 2, 3, 0]
+	],
+	"players": []
+}
